@@ -3,7 +3,7 @@ This repository contains the code and experiments to replicate the results prese
 
 **Paolo Climaco and Jochen Garcke**\
 Institut für Numerische Simulation, Universität Bonn, Germany\
-Fraunhofer Center for Machine Learning and SCAI, Sankt Augustin, Germany\
+Fraunhofer Center for Machine Learning and SCAI, Sankt Augustin, Germany
 
 Contact climaco@ins.uni-bonn for questions about code and data.
 
