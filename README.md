@@ -1,9 +1,9 @@
-# On minimizing the training set fill distance in machine
-This repository contains the code and experiments to replicate the results presented in the paper titled "[On minimizing the training set fill distance in machine](https://arxiv.org/pdf/2307.10988.pdf)"
+# On minimizing the training set fill distance in machine learning regression
+This repository contains the code and experiments to replicate the results presented in the paper titled "[On minimizing the training set fill distance in machine learning regression](https://arxiv.org/pdf/2307.10988.pdf)"
 
 **Paolo Climaco and Jochen Garcke**\
 Institut für Numerische Simulation, Universität Bonn, Germany\
-Fraunhofer Center for Machine Learning and SCAI, Sankt Augustin, Germany
+Fraunhofer SCAI, Sankt Augustin, Germany
 
 Contact climaco@ins.uni-bonn for questions about code and data.
 
@@ -34,6 +34,4 @@ Contact climaco@ins.uni-bonn for questions about code and data.
 └── README.md                   # Project README file.
 └── requirements.txt            # python pacakges required to run code.
 ```
-## References
-- [1] Jacob Schreiber, Jeffrey Bilmes and William Stafford Noble. apricot: Submodular selection for data summarization in Python. Journal of Machine Learning Research 21(161):1−6, 2020.
 
