@@ -10,28 +10,28 @@ Contact climaco@ins.uni-bonn for questions about code and data.
 ## Python Packages
 -Python (>= 3.7)\
 -Pytorch 1.11.0\
--Install packeges in requirements.txt
+-Install packages in requirements.txt
 
 
 ## Repository Structure
 
 ```plaintext
 .
-├── datasets/                   # Folder containg code to access data. Used also for data storage. 
+├── datasets/                   # Folder containing code to access data. Used also for data storage. 
 │   ├── Datasets_Class.py           # Code for dowloading and reading datasets.
 │    
-├── notebooks/                  # Folder containg jupiter notebooks.
+├── notebooks/                  # Folder containing jupiter notebooks.
 │   ├── experiments_QM7,ipynb       # Jupyter Notebook replicating experiments on QM7.
 │   ├── access_data.ipynb           # Jupyter Notebook explaining how to access preprocessed datasets.
 │
-├── Passive_Sampling/           # Folder containg code to select datapoint with FPS.
+├── Passive_Sampling/           # Folder containing code to select datapoint with FPS.
 │   ├──farthest_point.py            # Code for implementing the  Fartehst Point Sampling (FPS).
 │
-├── utils/                      # Folder containg basic code to run and plot experiments.
+├── utils/                      # Folder containing basic code to run and plot experiments.
 │   ├──FNN.py                       # Code containg the FNN architecture, training and testing procedures.
 │   ├──plots.py                     # Code plotting the result of the experiments.
 
 └── README.md                   # Project README file.
-└── requirements.txt            # python pacakges required to run code.
+└── requirements.txt            # python packages required to run code.
 ```
 
